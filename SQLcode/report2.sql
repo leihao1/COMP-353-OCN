@@ -1,0 +1,1 @@
+SELECT * FROM Ad WHERE category ='Buy and Sell' AND postDate > current_date - interval '10' day;
