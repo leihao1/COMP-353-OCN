@@ -12,6 +12,7 @@ Centralized Network of Online Communities - OCN
   More functions with 3NF relation schema
 
   TO DO
+  
   -sellers can select store now
   
   -creditcrad number can not be negative
