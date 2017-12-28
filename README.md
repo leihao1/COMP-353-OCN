@@ -2,7 +2,7 @@
 
 Centralized Network of Online Communities - OCN
 
-Version 1.0
+Version 1.0(current)
 --------------
   Basic functions with 1NF relation schema
 
