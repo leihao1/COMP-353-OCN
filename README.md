@@ -13,5 +13,7 @@ Centralized Network of Online Communities - OCN
 
   TO DO
   -sellers can select store now
+  
   -creditcrad number can not be negative
+  
   -buyers can not rate before paid
