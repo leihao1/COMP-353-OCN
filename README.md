@@ -15,8 +15,8 @@ Version 2.0
 
   TO DO
   
-  -sellers can select store now
+  >sellers can select store now
   
-  -creditcrad number can not be negative
+  >creditcrad number can not be negative
   
-  -buyers can not rate before paid
+  >buyers can not rate before paid
