@@ -15,7 +15,7 @@ Version 2.0
 
   TO DO
   
-  >-sellers can select store now
+  >-sellers can select store when they post ads
   
   >-creditcrad number can not be negative
   
