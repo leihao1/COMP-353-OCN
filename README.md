@@ -14,7 +14,6 @@ Version 2.0
   More functions with 3NF relation schema
 
   TO DO
-  
   
   >-sellers can select store when they post ads
   
