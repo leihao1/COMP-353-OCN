@@ -13,10 +13,9 @@ Version 2.0
 --------------
   More functions with 3NF relation schema
 
-  TO DO
-  
-  >-sellers can select store when they post ads
+  TO DO :
+* sellers can select store when they post ads
   
-  >-creditcrad number can not be negative
+* creditcrad number can not be negative
   
-  >-buyers can not rate before paid
+* buyers can not rate before paid
